@@ -1,1 +1,13 @@
+Credits:
 
+- Wardrobe system made by Glitched Cat Studios
+- Fchb1239, JokerJosh and SolarisDev09 for huge code snippets of the backend
+- Another Axiom Ltd for the locomotion
+- Exit Games GmbH for the multplayer
+- AmbientCG for almost all textures
+- Keo.cs and SamSam for a lot of scripts
+- MaxNiftyNine and Pugls for Anticheats
+- Snipershot6610 for the music inside of spawn
+- Magesticvr for the music in ZeroGravity in the old version of this game
+- TGAMonkeVR and Pixelatedk for all of the 2D art
+- Madomato_Bot on Sketchfab for the radio model inside of the shop
